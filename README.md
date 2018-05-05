@@ -4,12 +4,24 @@ These are just the files from the course, not the actual tutorial videos. This c
 
 You're welcome to download, fork or do whatever else legal with all the files!
 
+
+
 Enjoy yourself.
 
+
+
 Ben Tristem
+
+
 
 ---
 Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
 
+
+
 ## Lecture List
-* BT01 Intro, Notes & Assets
+* 
+*BT01 Intro, Notes & Assets
+
+*BT02 Game Design Document (GDD) 
+*BT03 Setting up a GitHub "Repo" 
