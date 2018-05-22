@@ -58,5 +58,11 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
+# Additional game content
+Content/*
+
+# Substance textures
+Substance/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
